@@ -25,11 +25,11 @@ This is a solution to the Me gustan tus pestañas project of the Make It Real co
 
 **Screenshot**
 
-  ![Home](https://github.com/juanxavier357/React-Router/blob/master/images/react-router-home.JPG)
+  ![Home](https://github.com/juanxavier357/React-Router/blob/main/images/react-router-home.JPG)
   
-  ![Pricing](https://github.com/juanxavier357/React-Router/blob/master/images/react-router-pricing.JPG)
+  ![Pricing](https://github.com/juanxavier357/React-Router/blob/main/images/react-router-pricing.JPG)
   
-  ![About](https://github.com/juanxavier357/React-Router/blob/master/images/react-router-about.JPG)
+  ![About](https://github.com/juanxavier357/React-Router/blob/main/images/react-router-about.JPG)
   
 ## My process
 
