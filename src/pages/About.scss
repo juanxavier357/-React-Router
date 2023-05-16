@@ -1,0 +1,38 @@
+h1 {
+    margin: 10px;
+    font-size: 50px;
+    color: #212627;
+    -webkit-text-stroke: 1px #61dafb;
+}
+
+h2 {
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    font-weight: bold;
+
+    &__image {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 14px;
+
+        img {
+            border-radius: 0.25rem;
+        }
+    }
+
+    &__description {
+        margin: 0 40px;
+
+        p {
+            margin: 0;
+        }
+
+    }
+}
